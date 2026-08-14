@@ -1,0 +1,35 @@
+{
+  "naskah_lengkap": "Pernah bayangin gak, ada perang yang selesainya bahkan lebih cepat daripada kalian nonton satu episode drakor? Kenalin, Perang Inggris-Zanzibar, perang paling singkat dalam sejarah dunia! Kejadiannya tahun 1896 di Afrika Timur. Masalahnya sepele, sultan baru Zanzibar naik takhta tanpa izin Inggris. Inggris yang gak terima langsung ngasih ultimatum: turun takhta atau kita serang! Bukannya takut, sultan baru malah nantangin. Akhirnya, kapal perang Inggris mulai nembakin istana sultan jam sembilan pagi. Hasilnya? Cuma dalam waktu 38 menit, bendera Zanzibar diturunkan dan perang pun selesai! Korban di pihak Zanzibar ratusan orang, sementara Inggris cuma satu prajurit terluka. Singkat, padat, dan langsung tamat!",
+  "scenes": [
+    {
+      "urutan": 1,
+      "teks": "Pernah bayangin gak, ada perang yang selesainya bahkan lebih cepat daripada kalian nonton satu episode drakor?",
+      "visual": "Animasi jam dinding berputar sangat cepat dengan latar belakang transisi peta dunia yang dramatis.",
+      "mood": "santai"
+    },
+    {
+      "urutan": 2,
+      "teks": "Kenalin, Perang Inggris-Zanzibar, perang paling singkat dalam sejarah dunia! Kejadiannya tahun 1896 di Afrika Timur.",
+      "visual": "Ilustrasi peta Afrika Timur dan bendera Inggris serta Zanzibar yang saling berhadapan.",
+      "mood": "kaget"
+    },
+    {
+      "urutan": 3,
+      "teks": "Masalahnya sepele, sultan baru Zanzibar naik takhta tanpa izin Inggris. Inggris yang gak terima langsung ngasih ultimatum: turun takhta atau kita serang!",
+      "visual": "Karikatur Sultan Zanzibar yang tampak sombong berhadapan dengan komandan Inggris yang membawa surat ultimatum raksasa.",
+      "mood": "misterius"
+    },
+    {
+      "urutan": 4,
+      "teks": "Bukannya takut, sultan baru malah nantangin. Akhirnya, kapal perang Inggris mulai nembakin istana sultan jam sembilan pagi.",
+      "visual": "Adegan dramatis kapal perang Inggris menembakkan meriam besar ke arah istana di pinggir pantai.",
+      "mood": "dramatis"
+    },
+    {
+      "urutan": 5,
+      "teks": "Hasilnya? Cuma dalam waktu 38 menit, bendera Zanzibar diturunkan dan perang pun selesai! Korban di pihak Zanzibar ratusan orang, sementara Inggris cuma satu prajurit terluka. Singkat, padat, dan langsung tamat!",
+      "visual": "Istana hancur dengan bendera putih dinaikkan, ada stopwatch raksasa menunjukkan angka 38 menit. Ditutup dengan animasi lucu tulisan tamat.",
+      "mood": "santai"
+    }
+  ]
+}
